@@ -23,8 +23,8 @@
 
     <properties>
         <standaloneConfiguration>${basedir}/configs/serverconfigs/standalone.xml</standaloneConfiguration>
-        <JBOSS_VERSION>JBOSS_VERSION</JBOSS_VERSION>
-        <JBOSS_FOLDER>JBOSS_FOLDER</JBOSS_FOLDER>
+        <JBOSS_VERSION>7.2.4.GA-redhat-00002</JBOSS_VERSION>
+        <JBOSS_FOLDER>/home/pmackay/praca/static_env/eap/724/jboss-eap-7.2</JBOSS_FOLDER>
     </properties>
         
     <build>
